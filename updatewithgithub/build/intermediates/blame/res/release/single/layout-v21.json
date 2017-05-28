@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

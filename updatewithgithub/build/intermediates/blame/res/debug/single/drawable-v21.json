@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

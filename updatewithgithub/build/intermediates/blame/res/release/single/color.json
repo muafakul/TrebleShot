@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/veli/Projects/TrebleShot/updatewithgithub/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/veli/.android/build-cache/8ce8d2f5ecc7126f710ac94ea5033b61b931e656/output/res/color/abc_tint_edittext.xml"
+    }
+]
