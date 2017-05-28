@@ -37,8 +37,6 @@ import com.genonbeta.TrebleShot.support.FragmentTitle;
 
 import java.io.File;
 
-import velitasali.updatewithgithub.GitHubUpdater;
-
 public class TrebleShotActivity extends Activity implements NavigationView.OnNavigationItemSelectedListener
 {
 	public static final String ACTION_OPEN_RECEIVED_FILES = "genonbeta.intent.action.OPEN_RECEIVED_FILES";
@@ -48,7 +46,6 @@ public class TrebleShotActivity extends Activity implements NavigationView.OnNav
 
 	private SharedPreferences mPreferences;
 	private NavigationView mNavigationView;
-	private GitHubUpdater mUpdater;
 	private Fragment mFragmentDeviceList;
 	private Fragment mFragmentReceivedFiles;
 	private Fragment mFragmentOnGoingProcessList;
@@ -71,7 +68,6 @@ public class TrebleShotActivity extends Activity implements NavigationView.OnNav
 		drawer.addDrawerListener(toggle);
 		toggle.syncState();
 
-		mUpdater = new GitHubUpdater(this, AppConfig.APP_UPDATE_REPO, R.style.AppTheme);
 		mPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		mNavigationView = (NavigationView) findViewById(R.id.nav_view);
 		mNavigationView.setNavigationItemSelectedListener(this);
@@ -100,24 +96,6 @@ public class TrebleShotActivity extends Activity implements NavigationView.OnNav
 		}
 
 		checkCurrentRequestedFragment(getIntent());
-
-		if (mPreferences.contains("availableVersion") && mUpdater.isNewVersion(mPreferences.getString("availableVersion", null)))
-			highlightUpdater(mPreferences.getString("availableVersion", null));
-		else
-			mUpdater.checkForUpdates(false, new GitHubUpdater.OnInfoAvailableListener()
-			{
-				@Override
-				public void onInfoAvailable(boolean newVersion, String versionName, String title, String description, String releaseDate)
-				{
-					mPreferences
-							.edit()
-							.putString("availableVersion", versionName)
-							.apply();
-
-					if (newVersion)
-						highlightUpdater(versionName);
-				}
-			});
 	}
 
 	@Override
@@ -176,10 +154,6 @@ public class TrebleShotActivity extends Activity implements NavigationView.OnNav
 		else if (R.id.menu_activity_main_preferences == item.getItemId())
 		{
 			startActivity(new Intent(this, PreferencesActivity.class));
-		}
-		else if (R.id.menu_activity_main_check_for_updates == item.getItemId())
-		{
-			mUpdater.checkForUpdates(true, null);
 		}
 		else
 			return false;
