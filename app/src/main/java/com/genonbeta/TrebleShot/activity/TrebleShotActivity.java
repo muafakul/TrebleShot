@@ -210,14 +210,6 @@ public class TrebleShotActivity extends Activity implements NavigationView.OnNav
 			}
 	}
 
-	private void highlightUpdater(String availableVersion)
-	{
-		MenuItem item = mNavigationView.getMenu().findItem(R.id.menu_activity_main_check_for_updates);
-
-		item.setChecked(true);
-		item.setTitle(R.string.version_available_text);
-	}
-
 	private void sendThisApplication()
 	{
 		File apkFile = new File(getPackageCodePath());
